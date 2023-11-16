@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E7E7295-CBA2-4E86-8B80-61AF7DC6D819"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "630E49E8-67C5-454A-9B22-0631F849133D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getUsers(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "630E49E8-67C5-454A-9B22-0631F849133D - f39a7bd9fb8fe7eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.NetworkService.getUsers(id: Swift.Int) async throws -&gt; Swift.Array&lt;lr7.User&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "630E49E8-67C5-454A-9B22-0631F849133D - cfee44e12dc04f5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for lr7.NetworkService.getUsers(id: Swift.Int) async throws -&gt; Swift.Array&lt;lr7.User&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9973460D-D9FD-41BF-9D2C-025FADF4A515"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/UsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FE313F5-1804-4F40-A79B-5E470EF43B6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/UsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BCF1724-023D-4696-A519-03891C0226C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/AuthorizationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "auth()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3AD6DBF-42A7-4F9F-8B7E-18A05A249CCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/AuthorizationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "auth()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41239E52-250B-46DD-897A-EB74168366A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "sendMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EFD3DCD-9A4E-460B-A470-688B7767EFCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "postMessage(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EFD3DCD-9A4E-460B-A470-688B7767EFCF - 19a578be9b2abbcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.NetworkService.postMessage(message: lr7.CreateMessageCommand) async throws -&gt; Swift.Int"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "4EFD3DCD-9A4E-460B-A470-688B7767EFCF - 990989160d064c1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for lr7.NetworkService.postMessage(message: lr7.CreateMessageCommand) async throws -&gt; Swift.Int"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A7131E6-A4AA-4572-8BA2-022319AC2B0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "sendMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A7131E6-A4AA-4572-8BA2-022319AC2B0F - ba2f5bba227964b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "8A7131E6-A4AA-4572-8BA2-022319AC2B0F - 590d154716329f17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "8A7131E6-A4AA-4572-8BA2-022319AC2B0F - 4ad95444f6cfecbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "8A7131E6-A4AA-4572-8BA2-022319AC2B0F - 3d1250202cf550a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8A7131E6-A4AA-4572-8BA2-022319AC2B0F - ba2f5bba227964b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "8A7131E6-A4AA-4572-8BA2-022319AC2B0F - ba2f5bba227964b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "730245BA-05F5-44E0-A781-F6629D7EEC05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "sendMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "730245BA-05F5-44E0-A781-F6629D7EEC05 - 4ad95444f6cfec9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "730245BA-05F5-44E0-A781-F6629D7EEC05 - ba2f5bba22796499"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "730245BA-05F5-44E0-A781-F6629D7EEC05 - 590d154716329f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "730245BA-05F5-44E0-A781-F6629D7EEC05 - 4ad95444f6cfec9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "730245BA-05F5-44E0-A781-F6629D7EEC05 - 3d1250202cf55083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "730245BA-05F5-44E0-A781-F6629D7EEC05 - ba2f5bba2279645f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in lr7.ChatView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/ViewModels/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76ED494E-EEEF-47F1-95EF-1F9F095AA19A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Services/MessageHasherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "encrypt(string:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76ED494E-EEEF-47F1-95EF-1F9F095AA19A - abbb288eb148ef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.MessageHasherService.Encrypt(string: Swift.String) throws -&gt; Swift.Array&lt;Swift.UInt8&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Services/MessageHasherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "76ED494E-EEEF-47F1-95EF-1F9F095AA19A - abbb288eb148ef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.MessageHasherService.Encrypt(string: Swift.String) throws -&gt; Swift.Array&lt;Swift.UInt8&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Services/MessageHasherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CC4ABD2-120B-4C18-B900-71A939F33455"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Services/MessageHasherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "encrypt(string:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CC4ABD2-120B-4C18-B900-71A939F33455 - abbb288eb14895c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.MessageHasherService.Encrypt(string: Swift.String) throws -&gt; Swift.Array&lt;Swift.UInt8&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Services/MessageHasherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1984">
+               </Location>
+               <Location
+                  uuid = "8CC4ABD2-120B-4C18-B900-71A939F33455 - abbb288eb14895c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.MessageHasherService.Encrypt(string: Swift.String) throws -&gt; Swift.Array&lt;Swift.UInt8&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Services/MessageHasherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A1D7B56-553D-4A62-892A-E10D1361B5AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/ViewModels/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchMessages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C613FB13-ED96-4C63-915D-B91B5F2505D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "getMessages(interlocutorId:meId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C613FB13-ED96-4C63-915D-B91B5F2505D8 - 19a32ab22c2e48df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for lr7.NetworkService.getMessages(interlocutorId: Swift.Int, meId: Swift.Int) async throws -&gt; Swift.Array&lt;lr7.Message&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "C613FB13-ED96-4C63-915D-B91B5F2505D8 - 40a9a09288ad04d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (lr7.MessageResponse) throws -&gt; lr7.Message in lr7.NetworkService.getMessages(interlocutorId: Swift.Int, meId: Swift.Int) async throws -&gt; Swift.Array&lt;lr7.Message&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "C613FB13-ED96-4C63-915D-B91B5F2505D8 - 40a9a09288ad04d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (lr7.MessageResponse) throws -&gt; lr7.Message in lr7.NetworkService.getMessages(interlocutorId: Swift.Int, meId: Swift.Int) async throws -&gt; Swift.Array&lt;lr7.Message&gt;"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E97339A-440B-478E-9E7B-C00288A65689"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "getMessages(interlocutorId:meId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4C61CCC-6579-47E8-A90B-6F62BD75CBD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Services/MessageHasherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "decrypt(bytes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4C61CCC-6579-47E8-A90B-6F62BD75CBD5 - af9d4a97ae8f085c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.MessageHasherService.Decrypt(bytes: Swift.String) throws -&gt; Swift.String"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Services/MessageHasherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "E4C61CCC-6579-47E8-A90B-6F62BD75CBD5 - af9d4a97ae8f085c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lr7.MessageHasherService.Decrypt(bytes: Swift.String) throws -&gt; Swift.String"
+                  moduleName = "lr7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noh4uk/Documents/projects/mdk02.02/lr7/lr7/Services/MessageHasherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4ED30F71-6253-4DC0-9EBD-7161CFE7387D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lr7/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "getMessages(interlocutorId:meId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
